@@ -10,8 +10,9 @@
 
 
 ## 📂 My Projects
+- [Library Management System (C Language and File Handling)](https://github.com/mentorabhishekpaul/library-management-c)
 - [Student Management System (Java + MySQL)](https://github.com/mentorabhishekpaul/student-management-swing)  
-- [E-commerce Website (MERN Stack)](https://github.com/mentorabhishekpaul/mern-project)  
+- [E-commerce Website (MERN Stack)](https://github.com/mentorabhishekpaul/mern-project)
 - [Data Analytics Dashboard (Power BI)](https://github.com/abhishekpaul/sales-dashboard)  
 - [Portfolio Website (HTML, CSS, JS)](https://github.com/abhishekpaul/portfolio-site)
 
