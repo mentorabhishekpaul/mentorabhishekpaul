@@ -17,6 +17,10 @@
 - [Data Analytics Dashboard (Power BI)](https://github.com/abhishekpaul/sales-dashboard)  
 - [Portfolio Website (HTML, CSS, JS)](https://github.com/abhishekpaul/portfolio-site)
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mentorabhishekpaul&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mentorabhishekpaul&layout=compact&theme=radical)
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-paul-93180846/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekpaul.24@gmail.com)  
 - 💼 Open for training, mentorship & collaborations  
